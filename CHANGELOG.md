@@ -1,3 +1,9 @@
+## master / unreleased
+
+* Ruby 2.6 support (no changes required)
+* Rails 6 support ([@mayordwells](https://github.com/mayordwells))
+* Add support for `update`/`update!` Active Record methods ([@tbk303](https://github.com/tbk303))
+
 ## v0.3.0 - 2018-09-08
 
 * Update I18n dependency to require >= 0.7, allowing to install more recent versions ([@nazarhussain](https://github.com/nazarhussain))
